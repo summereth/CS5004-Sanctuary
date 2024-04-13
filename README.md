@@ -53,7 +53,7 @@ As before, the **Run** tool window opens and shows you the application output.
    be created and allocated into isolation. You can check it in `List of All Primates`
    and `Isolation
    section`.
-   ![img_1.png](assets%2Fimg_1.png)
+   ![img_1.png](src/assets%2Fimg_1.png)
 2. List of primates housed in isolation will be displayed in `Isolation section`. You can also
    select
    a primate to treat it or move it to Enclosure. Please note that **unhealthy primate can't be
@@ -68,7 +68,7 @@ As before, the **Run** tool window opens and shows you the application output.
    care
    to a primate by selecting it and click the `Medical Care` button, which would move the primate to
    isolation.
-   ![img_2.png](assets%2Fimg_2.png)
+   ![img_2.png](src/assets%2Fimg_2.png)
 
 ## Changes of MVC vs Original Design
 
